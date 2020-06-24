@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MercadoPagoExample</string>
+    <string name="amount">Monto</string>
+    <string name="enter_the_amount">Ingrese el monto</string>
+    <string name="to_continue">Continuar</string>
+    <string name="payment_method_image">Payment method image</string>
+    <string name="x">X</string>
+    <string name="el_pago_se_realizo_correctamente">El pago se realizó correctamente.</string>
+    <string name="finish">Finalizar</string>
+
+
+</resources>
